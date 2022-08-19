@@ -1,0 +1,5 @@
+Client ID = 9XsMSE__SW7jwyKKEl3p6wn3RFsy2pFP21Py-xEgL3bUpl-jIKR_4AnKzZUjML3J
+
+Client Secret = 1CpOaD93CDEMbn-2AAbyVer6HShRsnV7BD0xw3z_Z-fetrB9phT4tVOBsZRyOrRBTVi-iodHMKDuQm-Mk1B64g
+
+Access Token = JM5dcKEMf2VfuWQXbpUaw9h1b1OYSlNz-g-NbHJwB2krElWIaU4NVceruD5zacXl
